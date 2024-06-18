@@ -1,3 +1,9 @@
+## Reason
+
+This programm was made to Split long excel lists in seperate one by a specific column.  
+This can be the case for to do lists with different responsible persons for example.  
+In that case one could create an own list for each person.
+
 ## Use
   
 This code is executed in the development environment.  
